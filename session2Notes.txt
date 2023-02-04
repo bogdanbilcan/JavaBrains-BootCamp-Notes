@@ -1,0 +1,12 @@
+Discussions and general notes about Java Developer Ingineer job and scope
+
+Working and setup git.
+General info about http and rest requests.
+General info about webapp architecture.
+
+CDN - content delivery network/content distribution network -  geographically distributed network of proxy / web servers that server static content to the web app.
+
+GIT pull request workflow and info about forking and rebase.
+Rebase option aparently is mainly used lately instead of merge, or fast forward options.
+...
+
