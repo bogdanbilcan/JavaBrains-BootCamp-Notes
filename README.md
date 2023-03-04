@@ -1,2 +1,2 @@
-# JavaBrains-BootCampNotes
-JavaBrains-BootCampNotes
+# JavaBrains-BootCamp-Notes
+JavaBrains-BootCamp Notes
